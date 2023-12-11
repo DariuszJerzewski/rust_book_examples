@@ -1,5 +1,5 @@
 
-pub fn creating_and_accessing() {
+pub fn creating_and_modifying() {
     let v: Vec<i32> = Vec::new();
     let v = vec![1, 2, 3];
 

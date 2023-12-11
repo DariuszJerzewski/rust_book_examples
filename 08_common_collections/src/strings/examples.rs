@@ -2,8 +2,8 @@
 pub fn creating_and_modifying() {
     let data = "initial contents";
 
-    let mut s = new String::new();
-    let s = data.to_tring();
+    let mut s = String::new();
+    let s = data.to_string();
     let s = "initial contents".to_string();
     let s = String::from("initial contents");
 
